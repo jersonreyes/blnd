@@ -1,6 +1,8 @@
 
 # BLND
 
+# time-stamp [![NPM version]
+
     THIS IS NON-PROFIT! 
     
     Last developed on 2019 by Jerson Reyes
