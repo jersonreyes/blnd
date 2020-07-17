@@ -8,6 +8,7 @@
 <pre><code>EARLY ACCESS:
 https://www.blnd.ga 
 (Original URL)</code></pre>
+<img src="media/cover.jpg">
 <h2 id="deployment">Deployment</h2>
 <p>If you are not capable of spending money on hosting and buying your own domain, you can use free domain domain providers like freenom. (http://freenom.com/) and then use web hosting services such as x10hosting (https://x10hosting.com/)</p>
 <p>All you have to do is setup a database, copy the phpmyadmin username and password, database name are also pre-set. Copy all of these information and change the values on the .php files.</p>
