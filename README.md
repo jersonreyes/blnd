@@ -1,6 +1,6 @@
 
 
-BLND
+BLND - Discontinued
 =====
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
 
