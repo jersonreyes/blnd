@@ -1,13 +1,7 @@
 
-# BLND
-
-# time-stamp [![NPM version]
-
-    THIS IS NON-PROFIT! 
-    
-    Last developed on 2019 by Jerson Reyes
-    Deployed and discontinued on the same year.
-
+BLND
+=====
+[![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)](http://travis-ci.org/gabordemooij/stamp)
 
 ## Description
 
