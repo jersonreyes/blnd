@@ -1,6 +1,6 @@
 
 # BLND
-**THIS IS NON-PROFIT.**
+**THIS IS NON-PROFIT.  DO NOT USE ADS**
 
     Last developed on 2019 by Jerson Reyes
     Deployed and discontinued on the same year.
