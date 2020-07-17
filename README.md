@@ -1,11 +1,13 @@
 
 # BLND
-**THIS IS NON-PROFIT.  DO NOT USE ADS**
 
+    THIS IS NON-PROFIT! 
     Last developed on 2019 by Jerson Reyes
     Deployed and discontinued on the same year.
 
-## Description
+
+
+### Description
 
 Discover a new way — BLND is an automated answering system developed for AMA Blended Learning users which can be accessed anywhere, anytime, and on any device.
 
