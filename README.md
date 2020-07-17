@@ -36,14 +36,13 @@ Everything is pre-designed. You only need to setup the website, upload the files
 ## Purpose
 I made the website to share a fair play on AMA students. I know that there are unprivileged people out there who is battling with financial problems, those who have no access to any computers, or if by a chance, even if they do, they have no technical knowledge in doing so. On the other side, there are even those AMA campus computers that can't even run Microsoft Word. Because of that, I spent time making and designing the whole system so, make the most out of it. — It is not AMA server's fault that it keeps crashing at days of deadline. We also encountered this before. This was caused by cramming issues of students I myself included. So answer your exams, quizzes, periodical exams in an advance to prevent all of this from happening. 
 
-
-## Important Note
- **Do not use for profit.** **i highly discourage use of ads.** Not all
- students have high data bandwidth or allocation. Develop this thinking that it will help a lot of people. Not only yourself. Good luck!
-
 ## Download
 Clone or download the whole repository. Click the Code button on top > Download ZIP or use CLI Git.
 
 **Download directly**
 
     https://github.com/jersonreyes/blnd/archive/master.zip
+
+## Important Note
+ **Do not use for profit.** **i highly discourage use of ads.** Not all
+ students have high data bandwidth or allocation. Develop this thinking that it will help a lot of people. Not only yourself. Good luck!
