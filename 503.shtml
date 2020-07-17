@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<!--
+
+DESIGNED AND CODED 
+BY JERSON REYES
+ONE PERSPECTIVE MEDIA | 2019
+
+BLNDD API | 2019
+index.html
+
+-->
+<html>
+  <head>
+    <title>503 - Service Unavailable</title>
+    <link rel="STYLESHEET" href="css/main.css" id="light">
+  <link rel="SHORTCUT ICON" href="media/icon.png">
+    <meta name="description" content="Answer AMA Online Education questions at ease - BLND is an automated answering system developed for AMA Blended Learning users including Grade 11 and Grade 12 students.">
+    <meta name="keywords" content="AMA, OED, ONLINE, EDUCATION, SOURCE, GRADE 11, GRADE 12, SENIOR HIGH, BLENDED, LEARNING, AUTOMATED, ANSWERS">
+    <meta property="og:url" content=""/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="BLND - Blended Learning"/>
+    <meta property="og:description" content="Answer AMA Online Education questions at ease - BLND is an automated answering system developed for AMA Blended Learning users including Grade 11 and Grade 12 students."/>
+    <meta property="og:image" content="media/cover.jpg"/>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8"/>
+    <meta name="VIEWPORT" content="width=device-width, initial-scale=1"/>
+</head>
+<body style="background-color:antiquewhite;padding:3%;" class="flex-center">
+
+  <div class="center" style="display:inline-block;vertical-align:middle">
+    <p class="large-text bold condensed">503</p>
+    <p class="normal-text condensed" style="margin-top:-20%">Service Unavailable</p>
+    <p class="slightly-large condensed">WE'RE SORRY. THERE SEEMS TO BE AN ERROR<br/>YOU CAN CHECK BACK AGAIN LATER</p><p class="center condensed normal-text">JUST AN IMAGE OF A CUTE DOGE</p>
+</div>
+    <div style="margin-left:10vw;">
+    <div style="background-position: center top;background-size:cover;background-image:url('media/doge.jpeg');height:85vh;width:30vw;"></div></div>
+    
+</body>
+</html>

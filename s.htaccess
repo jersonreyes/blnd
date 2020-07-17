@@ -1,0 +1,46 @@
+RewriteEngine on
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+    <IfModule mod_headers.c>
+        Header set Access-Control-Allow-Origin "https://api.blnd.ga"
+    </IfModule>
+</FilesMatch>
+
+# ensure www.
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule .*\.()$ - [F,NC]
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://api.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://api.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://blnd.x10host.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://blnd.x10host.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.api.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.api.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.blnd.x10host.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.blnd.x10host.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://api.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://api.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://blnd.x10host.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://blnd.x10host.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.api.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.api.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.blnd.ga/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.blnd.ga$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.blnd.x10host.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.blnd.x10host.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
+# Strip Facebook spyware tokens
+RewriteCond %{REQUEST_METHOD} =GET [NC,OR]
+RewriteCond %{REQUEST_METHOD} =HEAD [NC]
+RewriteCond %{QUERY_STRING} ^(.*)&?fbclid=[^&]+$ [NC]
+RewriteRule ^/?(.*)$ /$1?%1 [NE,L,R=301,E=limitcache:1]
+
