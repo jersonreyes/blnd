@@ -1,7 +1,7 @@
 
 BLND
 =====
-[![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)](http://travis-ci.org/gabordemooij/stamp)
+[![Build Status](https://travis-ci.com/jersonreyes/blnd.github.io.svg?branch=master)
 
 ## Description
 
