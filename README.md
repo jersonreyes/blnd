@@ -4,9 +4,9 @@ BLND
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
 ## Update
 
-    BLND Executable version released. 
-    Application can be accessed offline.
-    No installations required. Download on the bottom page.
+BLND Executable version released. 
+Application can be accessed offline.
+No installations required. Download on the bottom page.
 
 ## Description
 
