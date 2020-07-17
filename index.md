@@ -1,4 +1,4 @@
-<p class="code-line" data-line-start=1 data-line-end=3 ><a id="BLND_1"></a>BLND</p>
+<h1 class="code-line" data-line-start=1 data-line-end=3 ><a id="BLND_1"></a>BLND</h1>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><img src="https://secure.travis-ci.org/gabordemooij/stamp.png" alt="Build Status"></p>
 <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Description_5"></a>Description</h2>
 <p class="has-line-data" data-line-start="7" data-line-end="8">Discover a new way — BLND is an automated answering system developed for AMA Blended Learning users which can be accessed anywhere, anytime, and on any device.</p>
