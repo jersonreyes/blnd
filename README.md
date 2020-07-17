@@ -2,6 +2,11 @@
 BLND
 =====
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
+## Update
+
+    BLND Executable version released. 
+    Application can be accessed offline.
+    No installations required. Download on the bottom page.
 
 ## Description
 
@@ -42,8 +47,18 @@ I made the website to share a fair play on AMA students. I know that there are u
 Clone or download the whole repository. Click the Code button on top > Download ZIP or use CLI Git.
 
 **Download directly**
-
+	
+	CLONE REPOSITORY:
     https://github.com/jersonreyes/blnd/archive/master.zip
+
+
+
+**For students. Offline BLND Executable**
+	
+    https://github.com/jersonreyes/blnd/releases/tag/1.2
+
+No prerequisites or set-up required. Google Chrome may flag the file as harmful. This is a false-positive. Choose keep on the download arrow. You can scan the file on *virustotal.com*.
+
 
 ## Important Note
  **Do not use for profit.** **i highly discourage use of ads.** Not all
