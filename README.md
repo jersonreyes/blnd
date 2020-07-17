@@ -2,9 +2,9 @@
 # BLND
 
     THIS IS NON-PROFIT! 
+    
     Last developed on 2019 by Jerson Reyes
     Deployed and discontinued on the same year.
-
 
 
 ## Description
@@ -28,7 +28,8 @@ All you have to do is setup a database, copy the phpmyadmin username and passwor
  1. Buy or get a free domain name (x10hosting)
  2. Use free web hosting services (freenom)
  3. Setup phpMyAdmin. Customize username, password and database name if possible. 
-4. Change $servername, $username, $password on hanlder/index.php blndd.api/index.php
+ 4. Download the repo. Click Code > Download ZIP or clone using CLI Git.
+4. Change $servername, $username, $password on handler/index.php blndd.api/index.php
 5. Upload your files on your chosen web hosting.
 6. Import `DATABASE (PRE-DESIGNED, IMPORT).sql` on your phpMyAdmin page.  You can also use the csv answer file if you choose to go with your own  database structure. Located at `answers/_COMBINED.csv`
 7. Double check if you changed all server details on the handler file. A simple error can mess up your website.
@@ -41,6 +42,12 @@ I made the website to share a fair play on AMA students. I know that there are u
 
 
 ## Important
- **Do not use for profit.** i highly discourage use of ads. not all
- students have high data bandwidth. Develop this thinking that it will
- help a lot of people. not only yourself.
+ **Do not use for profit.** **i highly discourage use of ads.** Not all
+ students have high data bandwidth or allocation. Develop this thinking that it will help a lot of people. Not only yourself. Good luck!
+
+## Download
+Clone or download the whole repository. Click the Code button on top > Download ZIP or use CLI Git.
+
+**Download directly**
+
+    https://github.com/jersonreyes/blnd/archive/master.zip
