@@ -14,6 +14,8 @@ Discover a new way — BLND is an automated answering system developed for AMA B
     https://www.blnd.ga 
     (Original URL)
 
+<img src="media/cover.jpg">
+
 ## Deployment
 If you are not capable of spending money on hosting and buying your own domain, you can use free domain domain providers like freenom. (http://freenom.com/) and then use web hosting services such as x10hosting (https://x10hosting.com/)
 
