@@ -1,12 +1,8 @@
 
+
 BLND
 =====
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
-## Update
-
-BLND Executable version released. 
-Application can be accessed offline.
-No installations required. Download on the bottom page.
 
 ## Description
 
@@ -20,6 +16,11 @@ Discover a new way — BLND is an automated answering system developed for AMA B
     (Original URL)
 
 <img src="media/cover.jpg">
+
+## Update
+
+BLND executable version released. Application can be accessed offline.
+No installations required. Download on the bottom page.
 
 ## Deployment
 If you are not capable of spending money on hosting and buying your own domain, you can use free domain domain providers like freenom. (http://freenom.com/) and then use web hosting services such as x10hosting (https://x10hosting.com/)
