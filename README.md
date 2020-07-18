@@ -17,10 +17,10 @@ Discover a new way — BLND is an automated answering system developed for AMA B
 
 <img src="media/cover.jpg">
 
-## Update
+## Final Update - 1.2
 
 BLND executable version released. Application can be accessed offline.
-No installations required. Download on the bottom page.
+No installations required. Download the zip file from the bottom page link.
 
 ## Deployment
 If you are not capable of spending money on hosting and buying your own domain, you can use free domain domain providers like freenom. (http://freenom.com/) and then use web hosting services such as x10hosting (https://x10hosting.com/)
