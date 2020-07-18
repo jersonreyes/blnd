@@ -3,7 +3,7 @@
 BLND - Discontinued
 =====
 
-<img src="media/win.png" height="50px"> <img src="media/php.png" height="50px" margin="50px">   
+<img src="media/win.png" height="50px"> <img src="media/php.png" height="50px" margin="250px">   
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
 
 ## Description
