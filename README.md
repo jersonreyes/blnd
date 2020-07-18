@@ -7,7 +7,7 @@ BLND - Discontinued
 ## Description
 
 Discover a new way — BLND is an automated answering system developed for AMA Blended Learning users  which can be accessed anywhere,   
-anytime, and on any device. There are 21 subjects included. Instructions are also included at first visit. Share this to help other people.
+anytime, and on any device. There are 21 subjects included. Instructions are also included at first visit. Everything is pre-designed. You only need to setup the website, upload the files, and you're al good! I decided to take down the site as I am not into programming anymore. At the very least, it gave me experience in which I am very happy.
 
 
     EARLY ACCESS:
@@ -44,8 +44,6 @@ All you have to do is setup a database, copy the phpmyadmin username and passwor
 7. Double check if you changed all server details on the handler file. A simple error can mess up your website.
 8. Congrats! You've done it.
 
-Everything is pre-designed. You only need to setup the website, upload the files, and you are good to go. I decided to take down the site as I am not into programming anymore. At the very least, it gave me experience in which I am very happy.
-
 ## Purpose
 I made the website to share a fair play on AMA students. I know that there are unprivileged people out there who is battling with financial problems, those who have no access to any computers, or if by a chance, even if they do, they have no technical knowledge in doing so. On the other side, there are even those AMA campus computers that can't even run Microsoft Word. Because of that, I spent time making and designing the whole system so, make the most out of it. — It is not AMA server's fault that it keeps crashing at days of deadline. We also encountered this before. This was caused by cramming issues of students I myself included. So answer your exams, quizzes, periodical exams in an advance to prevent all of this from happening. 
 
@@ -67,5 +65,5 @@ No prerequisites or set-up required. Google Chrome may flag the file as harmful.
 
 
 ## Important Note
- **Do not use for profit.** **i highly discourage use of ads.** Not all
+ **Do not use for profit.** **I highly discourage use of ads.** Not all
  students have high data bandwidth or allocation. Develop this thinking that it will help a lot of people. Not only yourself. Good luck!
