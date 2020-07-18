@@ -37,8 +37,8 @@ All you have to do is setup a database, copy the phpmyadmin username and passwor
 
 **STEP BY STEP**
 
- 1. Buy or get a free domain name (x10hosting)
- 2. Use free web hosting services (freenom)
+ 1. Buy or get a free domain name (freenom)
+ 2. Use free web hosting services (x10hosting)
  3. Setup phpMyAdmin. Customize username, password and database name if possible. 
  4. Download the repo. Click Code > Download ZIP or clone using CLI Git.
 4. Change $servername, $username, $password on handler/index.php blndd.api/index.php
