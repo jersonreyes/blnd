@@ -22,7 +22,8 @@ Discover a new way — BLND is an automated answering system developed for AMA B
 BLND executable version released. Application can be accessed offline.
 No installations required. Download the zip file from the bottom page link.
 <p align="center">
-<img src="media/exe.jpg" height="auto" width="50%">
+<img src="media/exe.jpg" height="auto" width="80%">
+Windows 10
 </p>
 
 ## Deployment
