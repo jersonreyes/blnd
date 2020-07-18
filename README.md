@@ -21,7 +21,7 @@ anytime, and on any device. There are 21 subjects included. Instructions are als
 BLND executable version released. Application can be accessed offline.
 No installations required. Download the zip file from the bottom page link.
 <p align="center">
-<img src="media/exec.jpg" height="auto" width="100%">  
+<a href="https://github.com/jersonreyes/blnd/releases/tag/1.2"><img src="media/exec.jpg" height="auto" width="100%"></a>  
 	
 **Windows 10**
 
