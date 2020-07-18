@@ -1,9 +1,10 @@
 
 
+
 BLND - Discontinued
 =====
 
-<img src="media/win.png" height="50px"> <img src="media/php.png" height="50px" margin="250px">   
+<img src="media/win.png" height="50px"> <img src="media/php.png" height="50px">   
    
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
 
@@ -64,7 +65,18 @@ Clone or download the whole repository. Click the Code button on top > Download 
 	
     https://github.com/jersonreyes/blnd/releases/download/1.2/BLND.Portable.zip
 
-No prerequisites or set-up required. Google Chrome may flag the file as harmful. This is a false-positive. Choose keep on the download arrow. You can scan the file on *virustotal.com*.
+No prerequisites or set-up required. Google Chrome may flag the file as harmful. This is a false-positive. Choose keep on the download arrow. Verify checksums before downloading to check integrity of file.
+
+##### Checksums
+
+|Release |  Version | MD5  | SHA-1 |
+| ------------ | ------------ | ------------ |
+| blnd.zip  |1.1   | 37830c1103e9c4543ce2e868a7aaf9a1  |57da27fb4a7b4aaa4e682b06f2fa1079219c9864   |
+|  BLND.Portable.zip |  1.2 |  d407707e9734f7574b024359ccc3453f | d8a15eed47bb3b6f78173fca7d7ef55a3ea5a0ce  |
+|  BLND.exe |  1.2 | 4d06744a62cb29623d7b418631d4aad4  | 0ebeb6e983dec28f19df6f59134a255f7fba7480  |
+
+##### Virustotal Scan Results
+https://www.virustotal.com/gui/file/98776bb2c0aa9af5f1d24c7cf6489305251db80ae61812cd8322f54203ec5e3e/
 
 
 ## Important Note
