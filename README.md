@@ -3,6 +3,7 @@
 BLND - Discontinued
 =====
 ![Build Status](https://secure.travis-ci.org/gabordemooij/stamp.png)
+<img src="media/win.png" width="50px"><img src="media/php.png" width="50px">
 
 ## Description
 
