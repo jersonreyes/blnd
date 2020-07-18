@@ -69,9 +69,9 @@ No prerequisites or set-up required. Google Chrome may flag the file as harmful.
 
 ##### Checksums
 
-|Release |  Version | MD5  | SHA-1 |
+| Release |  Version | MD5  | SHA-1 |
 | ------------ | ------------ | ------------ |
-| blnd.zip  |1.1   | 37830c1103e9c4543ce2e868a7aaf9a1  |57da27fb4a7b4aaa4e682b06f2fa1079219c9864   |
+|  blnd.zip  | 1.1   | 37830c1103e9c4543ce2e868a7aaf9a1  | 57da27fb4a7b4aaa4e682b06f2fa1079219c9864   |
 |  BLND.Portable.zip |  1.2 |  d407707e9734f7574b024359ccc3453f | d8a15eed47bb3b6f78173fca7d7ef55a3ea5a0ce  |
 |  BLND.exe |  1.2 | 4d06744a62cb29623d7b418631d4aad4  | 0ebeb6e983dec28f19df6f59134a255f7fba7480  |
 
