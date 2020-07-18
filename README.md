@@ -76,6 +76,13 @@ No prerequisites or set-up required. Google Chrome may flag the file as harmful.
 |  BLND.Portable.zip |  1.2 |  d407707e9734f7574b024359ccc3453f | d8a15eed47bb3b6f78173fca7d7ef55a3ea5a0ce  |
 |  BLND.exe |  1.2 | 4d06744a62cb29623d7b418631d4aad4  | 0ebeb6e983dec28f19df6f59134a255f7fba7480  |
 
+
+
+A|B|C|AA|
+| --- | --- | --- | --- |
+|Q|W   |    E | RR     |
+
+
 ##### Virustotal Scan Results
 https://www.virustotal.com/gui/file/98776bb2c0aa9af5f1d24c7cf6489305251db80ae61812cd8322f54203ec5e3e/
 
