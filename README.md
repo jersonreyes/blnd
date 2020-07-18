@@ -7,7 +7,7 @@ BLND - Discontinued
 ## Description
 
 Discover a new way — BLND is an automated answering system developed for AMA Blended Learning users  which can be accessed anywhere,   
-anytime, and on any device. There are 21 subjects included. Instructions are also included at first visit. Everything is pre-designed. You only need to setup the website, upload the files, and you're al good! I decided to take down the site as I am not into programming anymore. At the very least, it gave me experience in which I am very happy.
+anytime, and on any device. There are 21 subjects included. Instructions are also included at first visit. Everything is pre-designed. You only need to setup the website, upload the files, and you're all good! I decided to take down the site as I am not into programming anymore. At the very least, it gave me experience in which I am very happy.
 
 
     EARLY ACCESS:
