@@ -6,11 +6,8 @@ BLND - Discontinued
 
 ## Description
 
-Discover a new way — BLND is an automated answering system   
-developed for AMA Blended Learning users  which can be accessed anywhere,   
-anytime, and on any device.
-
-There are 21 subjects included. Instructions are also included at first visit.    
+Discover a new way — BLND is an automated answering system developed for AMA Blended Learning users  which can be accessed anywhere,   
+anytime, and on any device. There are 21 subjects included. Instructions are also included at first visit.    
 Share this to help other people.
 
 
@@ -26,7 +23,9 @@ BLND executable version released. Application can be accessed offline.
 No installations required. Download the zip file from the bottom page link.
 <p align="center">
 <img src="media/exe.jpg" height="auto" width="100%">  
+	
 **Windows 10**
+
 </p>
 
 ## Deployment
