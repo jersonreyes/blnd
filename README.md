@@ -59,7 +59,7 @@ Clone or download the whole repository. Click the Code button on top > Download 
 
 **For students. Offline BLND Executable**
 	
-    https://github.com/jersonreyes/blnd/releases/tag/1.2
+    https://github.com/jersonreyes/blnd/releases/download/1.2/BLND.Portable.zip
 
 No prerequisites or set-up required. Google Chrome may flag the file as harmful. This is a false-positive. Choose keep on the download arrow. You can scan the file on *virustotal.com*.
 
