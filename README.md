@@ -33,7 +33,7 @@ No installations required. Download the zip file from the bottom page link.
 ## Deployment
 If you are not capable of spending money on hosting and buying your own domain, you can use free domain domain providers like freenom. (http://freenom.com/) and then use web hosting services such as x10hosting (https://x10hosting.com/)
 
-All you have to do is setup a database, copy the phpmyadmin username and password, database name are also pre-set. Copy all of these information and change the values on the .php files.
+All you have to do is setup a database, copy the phpmyadmin username and password. The database name is also pre-set. Copy all of these information and change the values on the .php files.
 
 **STEP BY STEP**
 
